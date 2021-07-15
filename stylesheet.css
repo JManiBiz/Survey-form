@@ -1,11 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
 
 body {
-	font: 400 1em / 1.4 Verdana;
+	
 	background-color: #7D5FFF;
 }
 
 h1 {
-	font: bold .9em 'Franklin Gothic Medium';
+	font: 400 1em / 1.4 'Franklin Gothic Medium';
 	text-align: center;
 }
